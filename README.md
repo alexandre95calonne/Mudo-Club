@@ -28,8 +28,12 @@ We leveraged cutting-edge tools to build a robust and visually appealing platfor
 
 ## 🚀 Live Website
 
-Discover the live website here:  
-[Mudo Club Taekwondo - Official Website](https://mudo-club.vercel.app/)  
+Discover the live website here:  [Mudo Club Taekwondo - Official Website](https://mudo-club.vercel.app/)  
+
+## 🖼️ Project Preview
+
+<img width="1457" alt="Capture d’écran 2024-12-27 à 16 53 43" src="https://github.com/user-attachments/assets/e343ab98-000a-450c-b04c-e53b22139ec7" />
+
 
 ## ✨ Collaboration with Next Generation
 
