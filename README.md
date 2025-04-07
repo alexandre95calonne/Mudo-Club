@@ -1,52 +1,19 @@
-# 🥋 Mudo Club Taekwondo - Powered by Next Generation
+# 🥋 Mudo Club Taekwondo — Showcase Website
 
-Welcome to the official repository of **Mudo Club Taekwondo**, a project proudly crafted by **Next Generation**, my web agency. 🌐  
+Website built for the leading Taekwondo club in Argenteuil.  
+Goal: replace an outdated blog with a clean, modern, and professional platform to attract new members.
 
-This repository showcases the work done for **Mudo Club Taekwondo**, the leading taekwondo club in Argenteuil. The project involved creating a **modern and professional showcase website** to elevate the club’s online presence. The previous platform was an outdated and poorly maintained blog, and this transformation positions the club as a professional organization, while providing tools to attract more members. The code is stored in a private repository, but this README outlines the project’s features and technologies.
+🥇 Club presentation, registration info, and community engagement tools.  
+🛠️ Tech stack: **Next.js**, **Tailwind CSS**, **TypeScript**, **Supabase**
 
-## 🌟 About the Project
+## 🔗 Live Website  
+👉 [mudoclubargenteuil.fr](https://mudoclubargenteuil.fr/)
 
-**Mudo Club Taekwondo** required a modern, sleek website to better reflect its identity and engage with potential members. The key objectives were:  
-- Designing an **aesthetic and professional website** to replace their old, unappealing blog.  
-- Offering a platform to **manage registrations** efficiently.  
-- Boosting the club’s visibility and increasing memberships.  
-
-This project is a game-changer for the club, giving them a strong and professional digital presence.
-
-## 🔧 Key Features
-
-Here’s what the **Mudo Club Taekwondo** platform delivers:  
-- **Showcase Website**: A clean and modern design tailored for the taekwondo club.  
-- **Registration Management**: Tools to streamline member sign-ups and updates.  
-- **Enhanced Online Presence**: An attractive platform to engage potential members and grow the community.  
-
-## 💻 Technologies Used
-
-We leveraged cutting-edge tools to build a robust and visually appealing platform:  
-- **Frontend**: Next.js, Tailwind CSS, TypeScript  
-- **Backend**: Supabase  
-
-## 🚀 Live Website
-
-Discover the live website here:  [Mudo Club Taekwondo - Official Website](https://mudo-club.vercel.app/)  
-
-## 🖼️ Project Preview
-
-<img width="1457" alt="Capture d’écran 2024-12-27 à 16 53 43" src="https://github.com/user-attachments/assets/e343ab98-000a-450c-b04c-e53b22139ec7" />
-
-
-## ✨ Collaboration with Next Generation
-
-This project was proudly built by **Next Generation**, a web agency specializing in showcase websites, e-commerce, mobile applications, and custom web solutions.  
-
-To learn more or explore other projects, visit our website: [Next Generation](https://www.next-generation.dev/)  
-
-## 📬 Contact Us
-
-Have questions or want to collaborate? Reach out here:  
-- **Email**: [agence.next.generation@gmail.com](mailto:agence.next.generation@gmail.com)  
-- **Website**: [Next Generation](https://www.next-generation.dev/)  
+## 🖼️ Project Preview  
+<img width="100%" alt="Mudo Club Taekwondo Project Preview" src="https://github.com/user-attachments/assets/e343ab98-000a-450c-b04c-e53b22139ec7" />
 
 ---
 
-Thank you for checking out this README! The code for this platform is stored privately, but we’re happy to discuss our process. ✌️
+💭 Got an idea? A project in mind?  
+🚀 Explore my work: [alexandre-calonne.fr](https://www.alexandre-calonne.fr/)  
+📩 Message me: [WhatsApp](https://wa.me/33767284862)
